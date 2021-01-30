@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: rgb(27, 31, 30);
+  color: azure;
+  justify-content: space-around;
+  display: flex;
+  margin-left: 6cm;
+  margin-right: 6cm;
+  margin-top: 8em;
+  font-style: italic;
+  font-size: 0.5cm;
+  border-radius: 10mm;
+  
+}
+.li {
+  list-style: none;
+}
+
